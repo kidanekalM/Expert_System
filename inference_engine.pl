@@ -1,0 +1,1 @@
+recommend(user,product):-hell_raiser(user),format("fun")
